@@ -1,6 +1,6 @@
 package Day1;
 
-public class task2 {
+public class task2_max {
 	    public static void main(String[] args) {
 	        int[] arr = {3, 5, 7, 2, 8, 1, 4, 10};
 	        int max = arr[0];

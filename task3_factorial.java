@@ -1,7 +1,7 @@
 package Day1;
 import java.util.Scanner;
 
-public class task3 {
+public class task3_factorial {
 
     
     public static int fibonacci(int n) {
@@ -30,4 +30,3 @@ public class task3 {
         scanner.close();
     }
 }
-
